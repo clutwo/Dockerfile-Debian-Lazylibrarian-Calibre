@@ -1,4 +1,4 @@
-# Dockerfile-Debian-Lazylibrarian-Calibre-ARM64
+# dockerfile-debian-lazylibrarian-calibre-arm64  
 
 Change UID/GID to preferred ones in build.sh  
   
